@@ -171,34 +171,6 @@ async def match_cv_jd(
             except:
                 pass
 
-@app.post("/match-with-data")
-async def match_with_data(
-    cv_data: Dict[str, Any],
-    jd_text: str
-):
-    """
-    Match CV data (JSON) with JD text directly without file upload
-    """
-    try:
-        if not cv_data:
-            raise HTTPException(status_code=400, detail="CV data is required")
-        
-        if not jd_text.strip():
-            raise HTTPException(status_code=400, detail="JD text is required")
-        
-        # Calculate matching score
-        matching_result = matching_cv.calculate_matching_score(cv_data, jd_text)
-        if not matching_result:
-            raise HTTPException(status_code=500, detail="Failed to calculate matching score")
-        
-        return JSONResponse(content={
-            "status": "success",
-            "matching_result": matching_result
-        })
-        
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error processing data: {str(e)}")
-
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)

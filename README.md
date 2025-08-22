@@ -65,4 +65,3 @@ Once the server is running, you can access:
 | `POST` | `/extract-cv` | Extract CV info | PDF file | Structured CV data |
 | `POST` | `/load-jd` | Load job description | TXT file | JD content |
 | `POST` | `/match-cv-jd` | Match CV with JD | PDF + TXT files | Matching score |
-| `POST` | `/match-with-data` | Match with JSON data | JSON data | Matching score |
