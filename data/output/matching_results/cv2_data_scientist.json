@@ -1,0 +1,49 @@
+{
+  "scores": {
+    "exp_years": {
+      "score": 0,
+      "justification": "The candidate has 0 years of experience, while the JD requires 2+ years."
+    },
+    "prof_skill_advanced": {
+      "score": 50,
+      "justification": "The candidate is proficient in Python, but lacks experience with R and machine learning libraries mentioned in the JD."
+    },
+    "soft_skill": {
+      "score": 70,
+      "justification": "The candidate demonstrates strong soft skills such as being a team player and having technical leadership, which align with the JD's requirements."
+    },
+    "education": {
+      "score": 0,
+      "justification": "The candidate has a B.Sc. in Computer Science, while the JD requires a Master's degree in a related field."
+    },
+    "prof_skill_basic": {
+      "score": 80,
+      "justification": "The candidate has a solid foundation in SQL and other basic skills relevant to the position."
+    },
+    "achievements": {
+      "score": 50,
+      "justification": "The candidate has received a scholarship, which is a notable achievement, but lacks other significant recognitions."
+    },
+    "relevant_projects": {
+      "score": 60,
+      "justification": "The candidate's project experience is relevant but does not fully align with the JD's focus on predictive modeling and statistical analysis."
+    },
+    "certs": {
+      "score": 0,
+      "justification": "The candidate has no certifications, which may be a disadvantage compared to other applicants."
+    },
+    "language": {
+      "score": 100,
+      "justification": "The JD does not specify language requirements, so the default score is applied."
+    },
+    "activities": {
+      "score": 70,
+      "justification": "The candidate's involvement in technology and event clubs shows initiative and relevance to the field."
+    }
+  },
+  "final_matching_score": 36.4,
+  "cv_name": "cv2",
+  "jd_name": "data_scientist",
+  "cv_file": "cv2.pdf",
+  "jd_file": "data_scientist.pdf"
+}

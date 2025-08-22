@@ -1,0 +1,48 @@
+{
+  "exp_years": "16",
+  "language": "0",
+  "education": {
+    "degree": "Bachelor of Science",
+    "field": "Information Technology",
+    "year": 2005,
+    "institution": "Florida International University",
+    "location": "City, State, United States"
+  },
+  "prof_skill_advanced": [
+    "Active Directory",
+    "Azure",
+    "VMWare",
+    "Microsoft Exchange",
+    "PowerShell",
+    "Backup Exec",
+    "Linux"
+  ],
+  "prof_skill_basic": [
+    "C++",
+    "Java",
+    "JSP",
+    "HTML",
+    "CSS",
+    "VB.Net",
+    "Bash",
+    "T-SQL"
+  ],
+  "soft_skill": [
+    "Troubleshooting",
+    "Collaboration",
+    "Documentation",
+    "Problem Solving",
+    "Communication"
+  ],
+  "certs": [
+    "CompTIA Network+ - 2014"
+  ],
+  "achievements": "0",
+  "relevant_projects": [
+    "Office 365 migration",
+    "Hyperion Phase 1",
+    "MiamiBiz Phase 2",
+    "Open Wi-Fi network project"
+  ],
+  "activities": "0"
+}

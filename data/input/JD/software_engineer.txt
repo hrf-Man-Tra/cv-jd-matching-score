@@ -1,0 +1,20 @@
+Software Engineer
+=================
+
+Job Description: Software Engineer
+We are looking for a skilled Software Engineer to join our development team.
+Requirements:
+- Bachelor's degree in Computer Science or related field
+- 3+ years of experience in software development
+- Proficiency in Python, Java, or C++
+- Experience with web frameworks (Django, Flask, Spring)
+- Knowledge of databases (SQL, NoSQL)
+- Experience with version control (Git)
+- Strong problem-solving skills
+Responsibilities:
+- Develop and maintain software applications
+- Collaborate with cross-functional teams
+- Write clean, maintainable code
+- Participate in code reviews
+- Debug and resolve technical issues
+

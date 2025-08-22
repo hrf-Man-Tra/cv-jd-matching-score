@@ -1,0 +1,49 @@
+{
+  "scores": {
+    "exp_years": {
+      "score": 100,
+      "justification": "The candidate has 16 years of experience, which exceeds the 3+ years required in the JD."
+    },
+    "prof_skill_advanced": {
+      "score": 0,
+      "justification": "The candidate's advanced skills do not match the required proficiency in Python, Django, Flask, or Spring."
+    },
+    "soft_skill": {
+      "score": 80,
+      "justification": "The candidate has strong problem-solving and collaboration skills, which align well with the JD's emphasis on teamwork."
+    },
+    "education": {
+      "score": 80,
+      "justification": "The candidate has a Bachelor's degree in Information Technology, which is related but not an exact match to Computer Science."
+    },
+    "prof_skill_basic": {
+      "score": 60,
+      "justification": "The candidate has basic skills in C++ and Java, but lacks experience with web frameworks and version control mentioned in the JD."
+    },
+    "achievements": {
+      "score": 0,
+      "justification": "The candidate has no notable achievements listed, which is a missed opportunity compared to potential expectations."
+    },
+    "relevant_projects": {
+      "score": 40,
+      "justification": "The candidate's projects are relevant to IT but do not directly relate to software development as specified in the JD."
+    },
+    "certs": {
+      "score": 0,
+      "justification": "The certification listed (CompTIA Network+) does not align with the software engineering requirements of the JD."
+    },
+    "language": {
+      "score": 100,
+      "justification": "The JD does not specify language requirements, so the default score is applied."
+    },
+    "activities": {
+      "score": 0,
+      "justification": "The candidate has no extracurricular activities listed, which could have demonstrated additional skills or interests."
+    }
+  },
+  "final_matching_score": 36.4,
+  "cv_name": "cv1",
+  "jd_name": "software_engineer",
+  "cv_file": "cv1.pdf",
+  "jd_file": "software_engineer.pdf"
+}

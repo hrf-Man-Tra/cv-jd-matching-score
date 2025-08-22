@@ -1,0 +1,49 @@
+{
+  "scores": {
+    "exp_years": {
+      "score": 100,
+      "justification": "The candidate has 16 years of experience, exceeding the 5+ years required in the JD."
+    },
+    "prof_skill_advanced": {
+      "score": 0,
+      "justification": "The candidate's advanced skills do not align with the product management requirements, which include Agile/Scrum methodologies and product analytics tools."
+    },
+    "soft_skill": {
+      "score": 70,
+      "justification": "The candidate has strong communication and problem-solving skills, but lacks specific leadership experience mentioned in the JD."
+    },
+    "education": {
+      "score": 50,
+      "justification": "The candidate has a Bachelor's degree in Information Technology, which is not directly related to Business or Engineering as specified in the JD."
+    },
+    "prof_skill_basic": {
+      "score": 0,
+      "justification": "The basic skills listed do not match the requirements for product management, which focus on analytical and UX skills."
+    },
+    "achievements": {
+      "score": 0,
+      "justification": "The candidate has no notable achievements or recognitions listed, which are important for a Product Manager role."
+    },
+    "relevant_projects": {
+      "score": 30,
+      "justification": "While the candidate has relevant project experience, it does not specifically relate to product management or the responsibilities outlined in the JD."
+    },
+    "certs": {
+      "score": 0,
+      "justification": "The certification held by the candidate is not relevant to the product management role as described in the JD."
+    },
+    "language": {
+      "score": 100,
+      "justification": "The JD does not specify any language requirements, so a default score of 100 is given."
+    },
+    "activities": {
+      "score": 0,
+      "justification": "The candidate has no extracurricular activities listed, which could demonstrate additional skills or interests."
+    }
+  },
+  "final_matching_score": 30.0,
+  "cv_name": "cv1",
+  "jd_name": "product_manager",
+  "cv_file": "cv1.pdf",
+  "jd_file": "product_manager.pdf"
+}

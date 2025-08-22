@@ -1,0 +1,19 @@
+Data Scientist
+==============
+
+Job Description: Data Scientist
+We are seeking a talented Data Scientist to analyze complex data and provide insights.
+Requirements:
+- Master's degree in Data Science, Statistics, or related field
+- 2+ years of experience in data analysis
+- Proficiency in Python and R
+- Experience with machine learning libraries (scikit-learn, TensorFlow, PyTorch)
+- Knowledge of SQL and data visualization tools
+- Experience with statistical analysis
+- Strong analytical and communication skills
+Responsibilities:
+- Analyze large datasets to identify trends and patterns
+- Develop predictive models and algorithms
+- Create data visualizations and reports
+- Collaborate with business stakeholders
+- Present findings to management

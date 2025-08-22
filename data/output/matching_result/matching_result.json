@@ -1,0 +1,45 @@
+{
+  "scores": {
+    "exp_years": {
+      "score": 0,
+      "justification": "The candidate has 20 years of experience, but it is not relevant to software architecture, which is a critical requirement."
+    },
+    "prof_skill_advanced": {
+      "score": 0,
+      "justification": "The advanced skills listed are not related to software design patterns, system architecture, or programming languages required in the JD."
+    },
+    "soft_skill": {
+      "score": 0,
+      "justification": "The candidate did not provide any information on soft skills, which are essential for leadership and teamwork in the role."
+    },
+    "education": {
+      "score": 0,
+      "justification": "The candidate has an Associate's degree, while the JD requires a Bachelor's or Master's degree in Computer Science or a related field."
+    },
+    "prof_skill_basic": {
+      "score": 0,
+      "justification": "The candidate has no basic professional skills listed, which are necessary for the role."
+    },
+    "achievements": {
+      "score": 0,
+      "justification": "The candidate did not mention any achievements, which could demonstrate their capabilities and contributions."
+    },
+    "relevant_projects": {
+      "score": 0,
+      "justification": "The candidate has no relevant project experience, which is crucial for a Software Architect position."
+    },
+    "certs": {
+      "score": 0,
+      "justification": "The certification mentioned is not relevant to software architecture or the technologies specified in the JD."
+    },
+    "language": {
+      "score": 100,
+      "justification": "The JD does not specify any language requirements, so the default score is applied."
+    },
+    "activities": {
+      "score": 0,
+      "justification": "The candidate did not provide any extracurricular activities that could enhance their profile."
+    }
+  },
+  "final_matching_score": 0.0
+}

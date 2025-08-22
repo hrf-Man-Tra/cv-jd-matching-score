@@ -1,0 +1,45 @@
+{
+  "scores": {
+    "exp_years": {
+      "score": 0,
+      "justification": "The candidate has no professional experience, which does not meet the job requirement for an experienced Software Architect."
+    },
+    "prof_skill_advanced": {
+      "score": 60,
+      "justification": "The candidate has advanced skills in Python and SQL, but lacks experience with cloud computing, microservices, and software design patterns as required by the JD."
+    },
+    "soft_skill": {
+      "score": 70,
+      "justification": "The candidate demonstrates strong soft skills such as team leadership and public speaking, which are relevant to the leadership aspect of the JD."
+    },
+    "education": {
+      "score": 80,
+      "justification": "The candidate is pursuing a B.Sc. in Computer Science, which aligns with the educational requirements of the JD."
+    },
+    "prof_skill_basic": {
+      "score": 70,
+      "justification": "The candidate possesses basic skills in relevant technologies like FastAPI and Flask, but lacks experience in Java and DevOps practices mentioned in the JD."
+    },
+    "achievements": {
+      "score": 50,
+      "justification": "The candidate has received a tuition scholarship, which is a positive achievement but does not directly relate to professional accomplishments in the field."
+    },
+    "relevant_projects": {
+      "score": 60,
+      "justification": "The candidate's project experience as a back-end developer on a chatbot is relevant, but does not demonstrate the architectural skills required by the JD."
+    },
+    "certs": {
+      "score": 0,
+      "justification": "The candidate has no certifications, which may be a disadvantage compared to other candidates who have relevant certifications."
+    },
+    "language": {
+      "score": 100,
+      "justification": "The candidate is a native Vietnamese speaker and has basic English skills; since the JD does not specify language requirements, a default score of 100 is given."
+    },
+    "activities": {
+      "score": 80,
+      "justification": "The candidate's involvement in organizing events and training sessions shows initiative and relevance to the tech community, which is a positive aspect."
+    }
+  },
+  "final_matching_score": 49.4
+}

@@ -1,0 +1,49 @@
+{
+  "scores": {
+    "exp_years": {
+      "score": 100,
+      "justification": "The candidate has over 20 years of combined experience, exceeding the JD requirement of 3+ years."
+    },
+    "prof_skill_advanced": {
+      "score": 0,
+      "justification": "The candidate's advanced skills do not match the required programming languages and frameworks in the JD."
+    },
+    "soft_skill": {
+      "score": 0,
+      "justification": "There is no evidence of soft skills such as communication or teamwork in the CV."
+    },
+    "education": {
+      "score": 0,
+      "justification": "The candidate has an Associate's degree, while the JD requires a Bachelor's degree in Computer Science or a related field."
+    },
+    "prof_skill_basic": {
+      "score": 0,
+      "justification": "The CV does not list any basic programming skills required for the software engineering position."
+    },
+    "achievements": {
+      "score": 0,
+      "justification": "The candidate has not listed any notable achievements or recognitions."
+    },
+    "relevant_projects": {
+      "score": 0,
+      "justification": "There are no relevant projects mentioned that align with the software engineering role."
+    },
+    "certs": {
+      "score": 0,
+      "justification": "The certifications listed do not relate to software engineering or the required technologies."
+    },
+    "language": {
+      "score": 100,
+      "justification": "The JD does not specify any language requirements, so a default score of 100 is given."
+    },
+    "activities": {
+      "score": 0,
+      "justification": "No extracurricular activities are mentioned that would be relevant to the position."
+    }
+  },
+  "final_matching_score": 10.0,
+  "cv_name": "cv4",
+  "jd_name": "software_engineer",
+  "cv_file": "cv4.pdf",
+  "jd_file": "software_engineer.pdf"
+}

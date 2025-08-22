@@ -1,0 +1,12 @@
+{
+  "exp_years": "0",
+  "language": "0",
+  "education": "B.Sc. Computer Science (AI Track) from FPT University, 2022 - Present, Awarded 70% tuition scholarship",
+  "prof_skill_advanced": "SQL, Python, AI: LLM, Embedding Models, Retrieval-Augmented Generation (RAG)",
+  "prof_skill_basic": "PostgreSQL, MongoDB, Pinecone, Firebase, MySQL, FastAPI, Flask, VSCode, Github, Huggingface",
+  "soft_skill": "Ambitious, Team player, Technical leadership",
+  "certs": "0",
+  "achievements": "Awarded 70% tuition scholarship",
+  "relevant_projects": "Pixity - A RAG chatbot for tourists in Da Nang, Role: Back-end developer, Processed and indexed tourism datasets and built embedding pipelines using PostgreSQL, Pinecone, and MongoDB, Integrated Gemini’s API for both large-language-model inference and embedding generation, Team Size: 3 Members, github: https://github.com/ManTT-Data/PixAgent",
+  "activities": "Innovative Technology Student Club: Host Talkshow UNLOCKING THE FUTURE: STEP INTO AI x BLOCKCHAIN, Host Talkshow Solana Spark 101, Organize training sessions on Data Analysis and Data Science; EVo - FUDA Event Club: Technical committee member, Participate in organizing events at FPT school; Solana Superteam Student Club: Member, Participate in organizing meetings, sharing about Blockchain and Web3"
+}

@@ -1,0 +1,49 @@
+{
+  "scores": {
+    "exp_years": {
+      "score": 0,
+      "justification": "The candidate has 0 years of experience, while the JD requires 3+ years."
+    },
+    "prof_skill_advanced": {
+      "score": 80,
+      "justification": "The candidate is proficient in Python and Flask, which are mentioned in the JD, but lacks experience in Java or C++."
+    },
+    "soft_skill": {
+      "score": 70,
+      "justification": "The candidate demonstrates ambition and teamwork, which are valuable soft skills, but lacks specific examples of leadership in a professional context."
+    },
+    "education": {
+      "score": 100,
+      "justification": "The candidate has a Bachelor's degree in Computer Science, which meets the JD requirement."
+    },
+    "prof_skill_basic": {
+      "score": 90,
+      "justification": "The candidate has a strong foundation in various databases and web frameworks, aligning well with the JD's requirements."
+    },
+    "achievements": {
+      "score": 50,
+      "justification": "The candidate has received a scholarship, which is a notable achievement, but lacks other significant recognitions."
+    },
+    "relevant_projects": {
+      "score": 85,
+      "justification": "The candidate's project experience with a RAG chatbot is relevant, showcasing skills in databases and teamwork."
+    },
+    "certs": {
+      "score": 0,
+      "justification": "The candidate has no certifications, which may be a disadvantage compared to other candidates."
+    },
+    "language": {
+      "score": 100,
+      "justification": "The JD does not specify language requirements, so a default score of 100 is given."
+    },
+    "activities": {
+      "score": 70,
+      "justification": "The candidate is involved in relevant extracurricular activities, demonstrating initiative and interest in technology."
+    }
+  },
+  "final_matching_score": 56.5,
+  "cv_name": "cv2",
+  "jd_name": "software_engineer",
+  "cv_file": "cv2.pdf",
+  "jd_file": "software_engineer.pdf"
+}

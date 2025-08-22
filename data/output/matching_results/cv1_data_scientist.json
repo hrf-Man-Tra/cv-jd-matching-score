@@ -1,0 +1,49 @@
+{
+  "scores": {
+    "exp_years": {
+      "score": 0,
+      "justification": "The candidate has 16 years of experience, but the JD requires only 2+ years in data analysis, which is not relevant to the candidate's experience."
+    },
+    "prof_skill_advanced": {
+      "score": 0,
+      "justification": "The candidate's advanced skills do not match the required proficiency in Python, R, or machine learning libraries."
+    },
+    "soft_skill": {
+      "score": 50,
+      "justification": "The candidate has strong soft skills like communication and collaboration, which are relevant but not specifically highlighted in the JD."
+    },
+    "education": {
+      "score": 0,
+      "justification": "The candidate has a Bachelor's degree in Information Technology, while the JD requires a Master's degree in Data Science or a related field."
+    },
+    "prof_skill_basic": {
+      "score": 30,
+      "justification": "The candidate has basic skills in SQL, which is mentioned in the JD, but lacks other required basic skills like data visualization."
+    },
+    "achievements": {
+      "score": 0,
+      "justification": "The candidate has no notable achievements listed, which is a missed opportunity to demonstrate value."
+    },
+    "relevant_projects": {
+      "score": 20,
+      "justification": "The candidate's projects are not directly related to data science, but some may involve data analysis aspects."
+    },
+    "certs": {
+      "score": 0,
+      "justification": "The certification held by the candidate is not relevant to the data science role."
+    },
+    "language": {
+      "score": 100,
+      "justification": "The JD does not specify language requirements, so the default score is applied."
+    },
+    "activities": {
+      "score": 0,
+      "justification": "The candidate has no extracurricular activities listed that would enhance their profile for this role."
+    }
+  },
+  "final_matching_score": 10.0,
+  "cv_name": "cv1",
+  "jd_name": "data_scientist",
+  "cv_file": "cv1.pdf",
+  "jd_file": "data_scientist.pdf"
+}

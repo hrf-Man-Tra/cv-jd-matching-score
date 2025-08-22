@@ -1,0 +1,49 @@
+{
+  "scores": {
+    "exp_years": {
+      "score": 0,
+      "justification": "The candidate has 0 years of experience, while the JD requires 5+ years."
+    },
+    "prof_skill_advanced": {
+      "score": 0,
+      "justification": "The JD does not mention any of the advanced technical skills the candidate possesses, such as SQL or AI."
+    },
+    "soft_skill": {
+      "score": 50,
+      "justification": "The candidate demonstrates some relevant soft skills like teamwork and leadership, but lacks specific examples of communication skills in a product management context."
+    },
+    "education": {
+      "score": 0,
+      "justification": "The candidate has a B.Sc. in Computer Science, which is not directly related to the required fields of Business or Engineering."
+    },
+    "prof_skill_basic": {
+      "score": 0,
+      "justification": "The basic skills listed do not align with the product management skills required in the JD."
+    },
+    "achievements": {
+      "score": 20,
+      "justification": "The candidate has received a scholarship, which is a notable achievement, but it does not directly relate to product management."
+    },
+    "relevant_projects": {
+      "score": 0,
+      "justification": "The project experience is not relevant to product management as it focuses on back-end development rather than product strategy or lifecycle management."
+    },
+    "certs": {
+      "score": 0,
+      "justification": "The candidate has no certifications that align with the requirements of the JD."
+    },
+    "language": {
+      "score": 100,
+      "justification": "The JD does not specify any language requirements, so a default score of 100 is given."
+    },
+    "activities": {
+      "score": 30,
+      "justification": "The candidate's involvement in technology and event clubs shows initiative, but lacks direct relevance to product management."
+    }
+  },
+  "final_matching_score": 10.0,
+  "cv_name": "cv2",
+  "jd_name": "product_manager",
+  "cv_file": "cv2.pdf",
+  "jd_file": "product_manager.pdf"
+}

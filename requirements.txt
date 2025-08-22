@@ -1,0 +1,7 @@
+openai
+python-dotenv
+langchain-community
+pypdf
+langchain
+fastapi[standard]
+werkzeug

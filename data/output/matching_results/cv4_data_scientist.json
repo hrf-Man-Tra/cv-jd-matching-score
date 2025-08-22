@@ -1,0 +1,49 @@
+{
+  "scores": {
+    "exp_years": {
+      "score": 100,
+      "justification": "The candidate has over 20 years of combined experience, exceeding the 2+ years required in the JD."
+    },
+    "prof_skill_advanced": {
+      "score": 0,
+      "justification": "The candidate lacks proficiency in Python, R, and machine learning libraries, which are essential for the Data Scientist role."
+    },
+    "soft_skill": {
+      "score": 0,
+      "justification": "No evidence of communication or teamwork skills is provided in the CV."
+    },
+    "education": {
+      "score": 0,
+      "justification": "The candidate has an Associate's degree, while the JD requires a Master's degree in a relevant field."
+    },
+    "prof_skill_basic": {
+      "score": 0,
+      "justification": "The CV does not list any basic skills relevant to data analysis or data science."
+    },
+    "achievements": {
+      "score": 0,
+      "justification": "There are no notable achievements or recognitions mentioned in the CV."
+    },
+    "relevant_projects": {
+      "score": 0,
+      "justification": "The candidate has not listed any relevant projects related to data analysis or data science."
+    },
+    "certs": {
+      "score": 0,
+      "justification": "The certifications listed do not align with the requirements for a Data Scientist role."
+    },
+    "language": {
+      "score": 100,
+      "justification": "The JD does not specify any language requirements, so a default score of 100 is given."
+    },
+    "activities": {
+      "score": 0,
+      "justification": "No extracurricular activities relevant to the role are mentioned in the CV."
+    }
+  },
+  "final_matching_score": 10.0,
+  "cv_name": "cv4",
+  "jd_name": "data_scientist",
+  "cv_file": "cv4.pdf",
+  "jd_file": "data_scientist.pdf"
+}

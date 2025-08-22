@@ -1,0 +1,49 @@
+{
+  "scores": {
+    "exp_years": {
+      "score": 100,
+      "justification": "The candidate has 9 years of experience, exceeding the JD requirement of 3+ years."
+    },
+    "prof_skill_advanced": {
+      "score": 80,
+      "justification": "The candidate is proficient in Python, Java, and C++, which are required, but lacks experience with web frameworks mentioned in the JD."
+    },
+    "soft_skill": {
+      "score": 70,
+      "justification": "The candidate has strong soft skills such as teamwork and leadership, which align with the JD's emphasis on collaboration."
+    },
+    "education": {
+      "score": 70,
+      "justification": "The candidate holds a Master's degree in a related field, but the JD specifically requests a Bachelor's in Computer Science."
+    },
+    "prof_skill_basic": {
+      "score": 60,
+      "justification": "The candidate has basic skills relevant to the role, but lacks specific mention of version control systems like Git."
+    },
+    "achievements": {
+      "score": 70,
+      "justification": "The candidate has notable achievements in radar design, which demonstrate technical innovation, though not directly related to software engineering."
+    },
+    "relevant_projects": {
+      "score": 60,
+      "justification": "The projects listed are relevant to engineering but do not directly align with software development as described in the JD."
+    },
+    "certs": {
+      "score": 0,
+      "justification": "The candidate has no certifications, which may be a disadvantage compared to other candidates."
+    },
+    "language": {
+      "score": 100,
+      "justification": "The JD does not specify language requirements, so the default score is applied."
+    },
+    "activities": {
+      "score": 0,
+      "justification": "The candidate has no extracurricular activities listed, which may indicate a lack of engagement outside of work."
+    }
+  },
+  "final_matching_score": 66.4,
+  "cv_name": "cv3",
+  "jd_name": "software_engineer",
+  "cv_file": "cv3.pdf",
+  "jd_file": "software_engineer.pdf"
+}

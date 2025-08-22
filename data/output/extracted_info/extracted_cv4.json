@@ -1,0 +1,33 @@
+{
+  "exp": {
+    "Engineering Lab Technician": "7 years",
+    "Engineering Lab Technician, Sr. Specialist": "4 years 6 months",
+    "Assembly/ Test Technician": "5 years",
+    "Munitions Systems Journeyman": "4 years"
+  },
+  "language": 0,
+  "education": [
+    {
+      "degree": "Associates",
+      "field": "Applied Science Electronics Engineering",
+      "year": 2011,
+      "institution": "Forsyth Technical Community College"
+    },
+    {
+      "degree": "Associates",
+      "field": "Applied Science, Munitions Systems Technology",
+      "year": 2007,
+      "institution": "Community College of the Air Force"
+    }
+  ],
+  "prof_skill_advanced": "DasyLab, Labview, Mechanical, Electrical, Lean/5S, Hydraulic Testing, Test Stand Fabrication",
+  "prof_skill_basic": 0,
+  "soft_skill": 0,
+  "certs": [
+    "LabView Course 1",
+    "Lean Six Sigma/5s training seminar"
+  ],
+  "achievements": 0,
+  "relevant_projects": 0,
+  "activities": 0
+}

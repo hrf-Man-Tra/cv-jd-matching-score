@@ -1,0 +1,53 @@
+{
+  "exp_years": "9",
+  "language": "0",
+  "education": [
+    {
+      "degree": "M.S",
+      "field": "Electrical and Computer Engineering",
+      "institution": "Purdue University",
+      "graduation_date": "Dec. 2013",
+      "GPA": "3.9/4.0"
+    },
+    {
+      "degree": "B.S",
+      "field": "Electrical and Computer Engineering",
+      "institution": "Purdue University",
+      "graduation_date": "Dec. 2011",
+      "GPA": "3.2/4.0"
+    }
+  ],
+  "prof_skill_advanced": [
+    "C/C++",
+    "Python",
+    "Java",
+    "Matlab",
+    "LabView",
+    "SQL",
+    "Data analysis"
+  ],
+  "prof_skill_basic": [
+    "Microsoft Office",
+    "RF/Microwave software",
+    "SPICE",
+    "NI Multisim",
+    "Eagle",
+    "PCB Artist"
+  ],
+  "soft_skill": [
+    "Team leader",
+    "Self-starter",
+    "Attention to detail",
+    "Innovation"
+  ],
+  "certs": "0",
+  "achievements": [
+    "Innovative laptop radar design to operate in both FMCW and CW mode",
+    "Doppler shift (DTI), ranging (RTI), and SAR measurement capability"
+  ],
+  "relevant_projects": [
+    "New RF systems introduction on satellite communication architecture designs",
+    "Design and evaluation of a 5.8 GHz Laptop-Based Radar System"
+  ],
+  "activities": "0"
+}

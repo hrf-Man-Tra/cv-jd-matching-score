@@ -1,0 +1,49 @@
+{
+  "scores": {
+    "exp_years": {
+      "score": 60,
+      "justification": "The candidate has 16.5 years of experience, exceeding the 5+ years requirement, but lacks specific product management experience."
+    },
+    "prof_skill_advanced": {
+      "score": 20,
+      "justification": "The candidate's advanced skills do not align with the required experience in Agile/Scrum methodologies and product analytics tools."
+    },
+    "soft_skill": {
+      "score": 0,
+      "justification": "There is no evidence of communication or leadership skills in the CV."
+    },
+    "education": {
+      "score": 40,
+      "justification": "The candidate has an Associate's degree, while the JD requires a Bachelor's degree in a relevant field."
+    },
+    "prof_skill_basic": {
+      "score": 0,
+      "justification": "The CV indicates no basic skills, which are likely necessary for the role."
+    },
+    "achievements": {
+      "score": 0,
+      "justification": "The candidate has no listed achievements or recognitions."
+    },
+    "relevant_projects": {
+      "score": 0,
+      "justification": "There are no relevant projects mentioned that align with product management."
+    },
+    "certs": {
+      "score": 20,
+      "justification": "The certifications listed do not directly relate to product management or the required methodologies."
+    },
+    "language": {
+      "score": 100,
+      "justification": "No language requirements were mentioned in the JD, so a default score of 100 is given."
+    },
+    "activities": {
+      "score": 0,
+      "justification": "There are no extracurricular activities listed that would support the candidate's fit for the role."
+    }
+  },
+  "final_matching_score": 22.0,
+  "cv_name": "cv4",
+  "jd_name": "product_manager",
+  "cv_file": "cv4.pdf",
+  "jd_file": "product_manager.pdf"
+}
